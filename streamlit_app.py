@@ -418,7 +418,7 @@ def main():
     texture_strength = st.sidebar.slider(
         "Texture Strength",
         min_value=0, max_value=20, value=10, step=1,
-        help="Adds paper grain texture to simulate real pencil on paper. 0 = smooth, 15 = very textured."
+        help="Adds paper grain texture to simulate real pencil on paper. 0 = smooth, 20 = very textured."
     )
 
     shading_intensity = st.sidebar.slider(
