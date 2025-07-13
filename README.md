@@ -3,7 +3,7 @@
 # The Link to the Demo Web Application
 - 
 # Requirement
-- Python 3.9 or 3.10
+- Python 3.10
 # How to Use
 1. Download and extract the files.
 2. Run the command prompt as an administrator.
