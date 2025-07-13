@@ -403,7 +403,7 @@ def main():
     edge_threshold = st.sidebar.slider(
         "Edge Threshold",
         min_value=1, max_value=20, value=10, step=1,
-        help="Determines edge sensitivity. Lower values detect more edges, higher values focus on stronger edges only."
+        help="Determines edge sensitivity. Higher values detect more edges, lower values focus on stronger edges only."
     )
 
     st.sidebar.markdown("""
